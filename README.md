@@ -1,4 +1,5 @@
 Projeto Django
+
 Este projeto foi criado utilizando a versão 3.0.8 do Django, e tem como objetivo exemplificar a criação de um modelo de produto, seus serializers, viewsets e ações CRUD (Create, Read, Update, Delete).
 
 Modelo de Produto
